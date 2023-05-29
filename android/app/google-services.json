@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168224632908",
+    "project_id": "sharbek-app-61b6a",
+    "storage_bucket": "sharbek-app-61b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168224632908:android:86d4ad150857ac992204e9",
+        "android_client_info": {
+          "package_name": "www.sharbek.paybills.vip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168224632908-t0nbgvqj4j06m4285jtcncalcc9e2p86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw36OqS1n5HcOOzGA_JEZ4FzoBlQCDmBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168224632908-t0nbgvqj4j06m4285jtcncalcc9e2p86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
